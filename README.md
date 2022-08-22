@@ -5,7 +5,7 @@
 4. Write scripts to interact with them
 
 
-GovernmentContract.propose()    <-  Same arguments
-GovernmentContract.vote()   // casteVoteWithReason and more
-GovernmentContract.queue()      <-  Same arguments
-GovernmentContract.execute()    <-  Same arguments
+1. GovernmentContract.propose()    <-  Same arguments
+2. GovernmentContract.vote()   // casteVoteWithReason and more
+3. GovernmentContract.queue()      <-  Same arguments
+4. GovernmentContract.execute()    <-  Same arguments
